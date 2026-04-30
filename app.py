@@ -1,0 +1,1 @@
+print('Auto Doc Agent MVP placeholder - replace with full code from canvas if needed')
